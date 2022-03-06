@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/optilyz-frontend/static/js/main.63d55051.js",
+    "main.js": "/optilyz-frontend/static/js/main.67918c08.js",
     "index.html": "/optilyz-frontend/index.html",
-    "main.63d55051.js.map": "/optilyz-frontend/static/js/main.63d55051.js.map"
+    "main.67918c08.js.map": "/optilyz-frontend/static/js/main.67918c08.js.map"
   },
   "entrypoints": [
-    "static/js/main.63d55051.js"
+    "static/js/main.67918c08.js"
   ]
 }
